@@ -1,4 +1,4 @@
-# Thymeleaf Spring -Dialect Processor-2.1
+# Thymeleaf2 + Spring 3 - Dialect & Processor
 
 This Project includes Dialect and Processor.
 
