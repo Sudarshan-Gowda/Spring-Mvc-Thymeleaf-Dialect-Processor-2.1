@@ -4,9 +4,9 @@ This Project includes Dialect and Processor.
 
 
 # Technology used:
-* Spring 4
-* ThymeLeaf 3
-* Java 8
+* Spring 3
+* ThymeLeaf 2.1
+* Java 7
 
 # Tool Used
 * `Eclipse` - Luna/ Mars2
